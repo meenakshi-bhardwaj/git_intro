@@ -1,1 +1,6 @@
-console.log('hellow world')
+function greet(name)
+{
+console.log('hello' + name )
+]
+
+greet("meenakshi")
